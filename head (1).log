@@ -1,0 +1,124 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V1926
+! INFO-      
+! INFO-     Start of Translation: 11-MAR-2024  4:22:21 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\661994646\Downloads\head (1).stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        c:\worker\convert-fusion-r06\tmp\job-1\5\output\files\bc3f4d84-360d-4c04-8260-b427975c8cbb\c9e101e0-2b7b-4730-b28d-467794ff0d6c.stp
+! SUMMARY-  Date             2021-08-22T18:15:59+00:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v18.1
+! SUMMARY-  Orig_System      Autodesk Translation Framework v10.10.0.1391
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    804
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   1519
+! SUMMARY-  b_spline_curve_with_knots ..................................:     52
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:      6
+! SUMMARY-  cartesian_point ............................................:   4932
+! SUMMARY-  circle .....................................................:    708
+! SUMMARY-  closed_shell ...............................................:     39
+! SUMMARY-  conical_surface ............................................:     14
+! SUMMARY-  context_dependent_shape_representation .....................:      3
+! SUMMARY-  cylindrical_surface ........................................:    318
+! SUMMARY-  direction ..................................................:   4337
+! SUMMARY-  edge_curve .................................................:   2065
+! SUMMARY-  edge_loop ..................................................:   1019
+! SUMMARY-  face_bound .................................................:    215
+! SUMMARY-  face_outer_bound ...........................................:    804
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      5
+! SUMMARY-  item_defined_transformation ................................:      3
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:   1299
+! SUMMARY-  manifold_solid_brep ........................................:     39
+! SUMMARY-  next_assembly_usage_occurrence .............................:      3
+! SUMMARY-  oriented_edge ..............................................:   4130
+! SUMMARY-  plane ......................................................:    458
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      4
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      4
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:      4
+! SUMMARY-  product_definition_shape ...................................:      7
+! SUMMARY-  product_related_product_category ...........................:      4
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      3
+! SUMMARY-  shape_representation .......................................:      4
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:     14
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      5
+! SUMMARY-  vector .....................................................:   1299
+! SUMMARY-  vertex_point ...............................................:   1372
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          25498
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 11-MAR-2024 4:22:21 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 11-MAR-2024  4:22:22 PM
+! INFO-     Filing Part ..: C:\Users\661994646\Documents\GitHub\mechatronic-bevo-head\ball(Mirror)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:    14
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             14
+! STATUS-   Creating the UG part (Phase 3 of 3): 11-MAR-2024  4:22:23 PM
+! INFO-     Filing Part ..: C:\Users\661994646\Documents\GitHub\mechatronic-bevo-head\ball
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:    14
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             14
+! STATUS-   Creating the UG part (Phase 3 of 3): 11-MAR-2024  4:22:24 PM
+! INFO-     Filing Part ..: C:\Users\661994646\Documents\GitHub\mechatronic-bevo-head\baseUpper
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     2
+! SUMMARY-  Solid .......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! STATUS-   Creating the UG part (Phase 3 of 3): 11-MAR-2024  4:22:27 PM
+! INFO-     Filing Part ..: C:\Users\661994646\Documents\GitHub\mechatronic-bevo-head\head (1).prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-  Solid .......................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        39
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        39
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 11-MAR-2024  4:22:29 PM
+! INFO-      
